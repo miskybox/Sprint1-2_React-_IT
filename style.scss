@@ -1,0 +1,19 @@
+$font-family: 'Poppins', sans-serif;
+$font-family: 'Raleway', sans-serif;
+$font-family: 'Roboto', sans-serif;
+$font-family: 'Roboto Mono', monospace;
+
+$primary: #5265E1;
+$secondary: #FA5959;
+$dark:#1B4875 ;
+
+$theme-colors :(
+    "primary": $primary,
+    "secondary": $secondary,
+    "dark": $dark,
+    );  
+
+  
+    
+  
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
